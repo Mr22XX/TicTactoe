@@ -4,6 +4,7 @@ TicTacToe using java
 <style>
   .title{
     color: white;
+    background-color: red;
     font-weight : bold;
     }
 </style>
