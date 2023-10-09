@@ -1,3 +1,9 @@
 # TicTactoe
 TicTacToe using java 
-<div>Rayhan Muhammad Adha (G1A023051) && 2.Khayla Rahma Levina (G1A023045)</div>
+<div class="title">Rayhan Muhammad Adha (G1A023051) && 2.Khayla Rahma Levina (G1A023045)</div>
+<style>
+  .title{
+    color: white;
+    font-weight : bold;
+    }
+</style>
